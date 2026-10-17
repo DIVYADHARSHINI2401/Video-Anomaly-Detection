@@ -2,6 +2,9 @@
 Vision Transformer-Based Open-Set Video Anomaly Detection
 Streamlit Interactive Surveillance Operations Dashboard
 """
+import warnings
+warnings.filterwarnings("ignore")
+
 import base64
 import glob
 import io
