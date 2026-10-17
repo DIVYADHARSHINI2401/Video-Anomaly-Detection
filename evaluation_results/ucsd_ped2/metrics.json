@@ -1,0 +1,33 @@
+{
+  "roc_auc": 0.6769,
+  "pr_auc": 0.9189,
+  "f1_score": 0.0,
+  "precision": 0.0,
+  "recall": 0.0,
+  "false_positive_rate": 0.0,
+  "fpr_at_95_tpr": 0.942,
+  "operating_threshold": 0.5,
+  "confusion_matrix": {
+    "true_positives": 0,
+    "false_positives": 0,
+    "true_negatives": 362,
+    "false_negatives": 1648,
+    "total_frames": 2010
+  },
+  "clip_level_summary": {
+    "clip_roc_auc": 0.6455,
+    "clip_pr_auc": 0.9478,
+    "clip_f1_score": 0.0,
+    "total_clips": 825
+  },
+  "dataset_name": "ucsd_ped2",
+  "num_test_videos": 12,
+  "total_evaluated_native_frames": 2010,
+  "total_evaluated_clips": 825,
+  "anomaly_ratio": 0.8199,
+  "threshold_selection_protocol": "Default threshold used; no separate validation set provided.",
+  "evaluation_wall_time_sec": 27.58,
+  "throughput_fps": 36.44,
+  "model_backbone": "vit_tiny_patch16_224",
+  "device": "cuda"
+}
