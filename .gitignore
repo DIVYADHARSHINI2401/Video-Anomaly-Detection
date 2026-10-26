@@ -28,3 +28,13 @@ outputs/*
 Thumbs.db
 .vscode/
 .idea/
+~$*
+
+# Exclude review reports, draft papers, and presentations from git
+docs/*.docx
+docs/*.pptx
+docs/*.pdf
+docs/KCT_UG_Phase_I_Project_Report_Draft.md
+docs/Research_Review_Paper_OpenSet_VAD.md
+docs/Review_III_Presentation_Notes_and_Viva_Prep.md
+docs/Review_III_Speaking_Guide_Rubrics_Based.md
