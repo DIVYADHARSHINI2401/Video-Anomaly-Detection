@@ -113,7 +113,7 @@ vit-open-set-video-anomaly/
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/<your-username>/vit-open-set-video-anomaly.git
+git clone [https://github.com/<your-username>/vit-open-set-video-anomaly](https://github.com/rukeshbabugantla143/ViT-Open-Set-Video-Anomaly-Detection-Risk-Estimator).git
 cd vit-open-set-video-anomaly
 ```
 
