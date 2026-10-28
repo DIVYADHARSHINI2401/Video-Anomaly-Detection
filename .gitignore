@@ -11,8 +11,7 @@ venv/
 ENV/
 .env
 
-# Large Datasets & Video Files
-datasets/
+# Large Video Files
 *.mp4
 *.avi
 *.mkv
